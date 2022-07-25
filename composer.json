@@ -1,0 +1,11 @@
+{
+    "name": "chern_a/hexlet-php",
+    "description": "example package",
+    "authors": [
+        {
+            "name": "Anton Chernyshev"
+            "email": "chernyshev_anton@hotmail.com" 
+       }
+    ],
+    "require": {}
+}
