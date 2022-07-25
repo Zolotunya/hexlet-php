@@ -4,8 +4,12 @@
     "authors": [
         {
             "name": "Anton Chernyshev"
-            "email": "chernyshev_anton@hotmail.com" 
        }
     ],
-    "require": {}
+    "require": {
+        "tightenco/collect": "^8.83"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
 }
