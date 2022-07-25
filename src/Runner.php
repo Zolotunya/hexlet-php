@@ -1,4 +1,6 @@
-namespace Hexlet\Php\Runner
+<?php
+
+namespace Hexlet\Php\Runner;
 
 function run()
 {
@@ -6,5 +8,5 @@ function run()
         return strtoupper($name);
     });
 
-    return $colletion;
+    return $collection;
 }
